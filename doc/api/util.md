@@ -1020,7 +1020,7 @@ Otherwise, returns `false`.
 See [`assert.deepStrictEqual()`][] for more information about deep strict
 equality.
 
-## `util.parseArgs([config])`
+## `util.parseArgs(config)`
 
 <!-- YAML
 added: REPLACEME
